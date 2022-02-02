@@ -5,7 +5,8 @@ https://gallery.cortanaintelligence.com/Experiment/Heart-disease-prediction
 
 # Training experiment(full model)
 
-![image](https://user-images.githubusercontent.com/89855872/152112239-d150873f-1643-480c-b2f5-a8b865411c09.png)
+![Screenshot (132)](https://user-images.githubusercontent.com/89855872/152114201-d65b23a6-f04f-4a8b-ae67-5d72855a9f93.png)
+
 
 # Predictive experiment(full model)
 
