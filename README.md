@@ -14,22 +14,23 @@ https://gallery.cortanaintelligence.com/Experiment/Heart-disease-prediction
 
 # Heart disease dataset:
 
-![image](https://user-images.githubusercontent.com/89855872/152112485-b93813ca-eee0-4980-b23f-9bd0851d89c1.png)
+![Screenshot (136)](https://user-images.githubusercontent.com/89855872/152114712-3e203ac0-d5d8-4731-81a2-a67f8ef82887.png)
+
 
 # Train model visualization:
 
-![image](https://user-images.githubusercontent.com/89855872/152112576-4bedf734-4abb-4a64-a831-7cf4bf3457fe.png)
+![Screenshot (137)](https://user-images.githubusercontent.com/89855872/152114799-0952072b-2a4e-4cb4-9347-cbfb30a70f56.png)
 
 # Score model visualization:
 
-![image](https://user-images.githubusercontent.com/89855872/152112654-2bc44434-3178-4933-b7f2-41152fad6377.png)
+![Screenshot (138)](https://user-images.githubusercontent.com/89855872/152114887-1a95b34c-4e4f-49c7-983e-a6fc37476076.png)
 
 # Evaluation model visualization:
 
 1)
-![image](https://user-images.githubusercontent.com/89855872/152112756-8f034b6c-561b-45ca-aa0d-95725240d999.png)
+![Screenshot (139)](https://user-images.githubusercontent.com/89855872/152114961-11a4a4c1-390d-47b4-a525-d7e4d1364b07.png)
 2}
-![image](https://user-images.githubusercontent.com/89855872/152112858-477546ae-7e98-448d-b0ce-426cb92994ce.png)
+![Screenshot (140)](https://user-images.githubusercontent.com/89855872/152115026-a4c9e265-4d1c-462e-b81b-78d92e0add2d.png)
 
 
 
