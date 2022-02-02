@@ -10,7 +10,7 @@ https://gallery.cortanaintelligence.com/Experiment/Heart-disease-prediction
 
 # Predictive experiment(full model)
 
-![image](https://user-images.githubusercontent.com/89855872/152112401-18c9dba0-1c89-479e-a68b-6c54cbb84042.png)
+![Screenshot (134)](https://user-images.githubusercontent.com/89855872/152114407-a175a4c8-7f6f-4ceb-a06d-e3887571b013.png)
 
 # Heart disease dataset:
 
