@@ -1,6 +1,37 @@
 # heart-disease-prediction
 heart disease prediction usign azure+machine learning
 
+https://gallery.cortanaintelligence.com/Experiment/Heart-disease-prediction
+
+# Training experiment(full model)
+
+![image](https://user-images.githubusercontent.com/89855872/152112239-d150873f-1643-480c-b2f5-a8b865411c09.png)
+
+# Predictive experiment(full model)
+
+![image](https://user-images.githubusercontent.com/89855872/152112401-18c9dba0-1c89-479e-a68b-6c54cbb84042.png)
+
+# Heart disease dataset:
+
+![image](https://user-images.githubusercontent.com/89855872/152112485-b93813ca-eee0-4980-b23f-9bd0851d89c1.png)
+
+# Train model visualization:
+
+![image](https://user-images.githubusercontent.com/89855872/152112576-4bedf734-4abb-4a64-a831-7cf4bf3457fe.png)
+
+# Score model visualization:
+
+![image](https://user-images.githubusercontent.com/89855872/152112654-2bc44434-3178-4933-b7f2-41152fad6377.png)
+
+# Evaluation model visualization:
+
+1)
+![image](https://user-images.githubusercontent.com/89855872/152112756-8f034b6c-561b-45ca-aa0d-95725240d999.png)
+2}
+![image](https://user-images.githubusercontent.com/89855872/152112858-477546ae-7e98-448d-b0ce-426cb92994ce.png)
+
+
+
 Machine learning disease prediction is a system that predicts diseases based on information 
 provided by users. It predicts the disease of the patient or the user based on the information or the 
 symptoms enter into the web system and gives results based on that information. If the patient isn't 
